@@ -1,2 +1,2 @@
-# web-scraping-challenge
-MR Module 12 HW
+# Unit 12 Homework: web-scraping-challenge (Mission to Mars)
+
